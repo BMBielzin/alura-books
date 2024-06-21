@@ -7,4 +7,15 @@ background-repeat: no-repeat;
 background-position: center;
 }
 
-.cabecalho
+.cabecalho {
+     background-color: #FFFFFFF;
+     display:flex; 
+     justify-self: space-between;
+     align-items: center;
+     position: relative;
+}
+
+.container {
+   display: flex;
+   align-items: center;
+}
